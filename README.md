@@ -6,6 +6,7 @@ by [Maziar Mehrbakhsh](https://github.com/Maziar-Mehr) & [Virgilio Oñate](https
 
 ## Table of content
 - [Project Brief](https://github.com/vonate5/midterm_project/blob/main/README.md#project-brief)
+- [Data](https://github.com/vonate5/midterm_project/blob/main/README.md#data)
 
 
 ## Project Brief
@@ -22,3 +23,6 @@ which factors are responsible for higher property value - $650K and above.
 
 Further project details such as deliverables can be found [here](https://github.com/ironhack-edu/data_mid_bootcamp_project_regression)
 
+## Data
+Leveraging on the [data](https://github.com/vonate5/midterm_project/tree/main/data_sets) we were provided with, we used Tableau's and Python's data visualisation tools to explore the relationships between features. <br/> <br/>
+To find out more about the distribution of the important features we highlighted, you can have a look on our Tableau dashboard below:
