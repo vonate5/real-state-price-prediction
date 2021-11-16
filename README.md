@@ -5,7 +5,7 @@ by [Virgilio Oñate](https://github.com/vonate5) & [Maziar Mehrbakhsh](https://g
 ![](images/Image_1.png)
 
 ## Table of content
-- [Project Brief] (https://github.com/vonate5/midterm_project/edit/main/README.md#project-brief)
+- [Project Brief](https://github.com/vonate5/midterm_project/edit/main/README.md#project-brief)
 
 
 ## Project Brief
