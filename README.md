@@ -27,3 +27,5 @@ Further project details such as deliverables can be found [here](https://github.
 Leveraging on the [data](https://github.com/vonate5/midterm_project/tree/main/data_sets) we were provided with, we used Tableau's and Python's data visualisation tools to explore the relationships between features. <br/> <br/>
 To find out more about the distribution of the important features we highlighted, you can have a look on our Tableau dashboard below:
 ![](images/tableau_visualization.png)
+
+For further information you may find the Tableau data [here](https://github.com/vonate5/midterm_project/tree/main/tableau)
