@@ -7,6 +7,9 @@ by [Maziar Mehrbakhsh](https://github.com/Maziar-Mehr) & [Virgilio Oñate](https
 ## Table of content
 - [Project Brief](https://github.com/vonate5/midterm_project/blob/main/README.md#project-brief)
 - [Data](https://github.com/vonate5/midterm_project/blob/main/README.md#data)
+- [Process & tools](https://github.com/vonate5/midterm_project/blob/main/README.md#process--tools)
+- [Visualization]
+- [Key Take Aways]
 
 
 ## Project Brief
@@ -27,3 +30,7 @@ Further project details such as deliverables can be found [here](https://github.
 Leveraging on the [data](https://github.com/vonate5/midterm_project/tree/main/data_sets) we were provided with, we used Tableau's and Python's data visualisation tools to explore the relationships between features. <br/> <br/>
 To find out more about the distribution of the important features we highlighted, you can have a look on our Tableau dashboard below:
 ![](images/tableau_visualization.png)
+
+For further information you may find the Tableau data [here](https://github.com/vonate5/midterm_project/tree/main/tableau)
+
+## Process & tools
