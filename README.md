@@ -6,7 +6,7 @@ by [Maziar Mehrbakhsh](https://github.com/Maziar-Mehr) & [Virgilio Oñate](https
 
 ## Table of content
 - [Project Brief](https://github.com/vonate5/midterm_project/blob/main/README.md#project-brief)
-- [Data]
+- [Data](https://github.com/vonate5/midterm_project/blob/main/README.md#data)
 
 
 ## Project Brief
