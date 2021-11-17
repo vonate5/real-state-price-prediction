@@ -8,8 +8,8 @@ by [Maziar Mehrbakhsh](https://github.com/Maziar-Mehr) & [Virgilio Oñate](https
 - [Project Brief](https://github.com/vonate5/midterm_project/blob/main/README.md#project-brief)
 - [Data](https://github.com/vonate5/midterm_project/blob/main/README.md#data)
 - [Process & tools](https://github.com/vonate5/midterm_project/blob/main/README.md#process--tools)
-- [Visualization]
-- [Key Take Aways]
+- [Visualization](https://github.com/vonate5/midterm_project/blob/main/README.md#visualization)
+- [Results]
 
 
 ## Project Brief
@@ -37,5 +37,20 @@ For further information you may find the Tableau data [here](https://github.com/
 ### We use the following tools to achieve the objective.
 ![](images/process&tools.png)
 
-**- MySQL:** We use SQL to complete the SQL [questions]. You can find the answers [here](https://github.com/vonate5/midterm_project/tree/main/sql).
+- **MySQL:** we use MySQL to complete the SQL [questions](https://github.com/vonate5/midterm_project/blob/main/project_details/sql_questions_regression.md). You can find the answers [here](https://github.com/vonate5/midterm_project/tree/main/sql).
+- **Trello:** set up our Trello board to help us organized and complete the daily tasks.
+- **Tableau:** here you can find the Tableau [questions](https://github.com/vonate5/midterm_project/blob/main/project_details/tableau_regression.md).You can find the Tableau worksheets and dashboard [here](https://github.com/vonate5/midterm_project/tree/main/tableau).
+- **Python:** programming language we use to build the Machine Learning model that give us the 84% accuracy of the price prediction. You can find de here the [code].
+- **Data cleaning:** keeping the highly correlated features with price and dropping highly correlated features with eachother when they have the same meaning.
+- **Machine Learning:**
+
+## Visualization
+You can see the visualization we've done in [Tableau 📊](https://github.com/vonate5/midterm_project/tree/main/tableau)
+
+
+
+
+
+
+
 
