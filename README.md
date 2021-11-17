@@ -24,7 +24,7 @@ Use the given data set to build a model that will predict the price of a house b
 Senior management also wants to explore the characteristics of the houses using some business intelligence tools. One of those parameters includes understanding 
 which factors are responsible for higher property value - $650K and above.
 
-Further project details such as deliverables can be found [here](https://github.com/ironhack-edu/data_mid_bootcamp_project_regression)
+Further project details such as deliverables can be found [here](https://github.com/vonate5/midterm_project/tree/main/project_details)
 
 ## Data
 Leveraging on the [data](https://github.com/vonate5/midterm_project/tree/main/data_sets) we were provided with, we used Tableau's and Python's data visualisation tools to explore the relationships between features. <br/> <br/>
