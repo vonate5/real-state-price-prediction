@@ -36,3 +36,4 @@ For further information you may find the Tableau data [here](https://github.com/
 ## Process & tools
 
 ![](images/process&tools.png)
+![](images/process&tools2.png)
