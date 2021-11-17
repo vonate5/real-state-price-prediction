@@ -34,7 +34,8 @@ To find out more about the distribution of the important features we highlighted
 For further information you may find the Tableau worksheets and dashboard [here](https://github.com/vonate5/midterm_project/tree/main/tableau)
 
 ## Process & tools
-### We use the following tools to achieve the objective.
+We use the following tools to achieve the objective.
+
 ![](images/process&tools.png)
 
 - **MySQL:** we use MySQL to complete the SQL [questions](https://github.com/vonate5/midterm_project/blob/main/project_details/sql_questions_regression.md). You can find the answers [here](https://github.com/vonate5/midterm_project/tree/main/sql).
