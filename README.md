@@ -34,3 +34,5 @@ To find out more about the distribution of the important features we highlighted
 For further information you may find the Tableau data [here](https://github.com/vonate5/midterm_project/tree/main/tableau)
 
 ## Process & tools
+
+![](images/process&tools.png)
