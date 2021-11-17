@@ -14,7 +14,7 @@ by [Maziar Mehrbakhsh](https://github.com/Maziar-Mehr) & [Virgilio Oñate](https
 
 ## Project Brief
 **Scenario:**
-We are working as an analyst for a real estate company. Your company wants to build a machine learning model to predict the selling prices of houses based on a 
+You are working as an analyst for a real estate company. Your company wants to build a machine learning model to predict the selling prices of houses based on a 
 variety of features on which the value of the house is evaluated.
 
 **Challenge:**
