@@ -8,7 +8,7 @@ by [Maziar Mehrbakhsh](https://github.com/Maziar-Mehr) & [Virgilio Oñate](https
 - [Project Brief](https://github.com/vonate5/midterm_project/blob/main/README.md#project-brief)
 - [Data](https://github.com/vonate5/midterm_project/blob/main/README.md#data)
 - [Process & tools](https://github.com/vonate5/midterm_project/blob/main/README.md#process--tools)
-- [Visualization]
+- [Visualization](https://github.com/vonate5/midterm_project/blob/main/README.md#visualization)
 - [Key Take Aways]
 
 
