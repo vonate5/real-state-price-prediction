@@ -37,5 +37,5 @@ For further information you may find the Tableau data [here](https://github.com/
 ### We use the following tools to achieve the objective.
 ![](images/process&tools.png)
 
-**- MySQL:** We use SQL to complete the SQL [questions](https://github.com/vonate5/midterm_project/blob/main/project_details/sql_questions_regression.md). You can find the answers [here](https://github.com/vonate5/midterm_project/tree/main/sql).
+**- MySQL:** We use MySQL to complete the SQL [questions](https://github.com/vonate5/midterm_project/blob/main/project_details/sql_questions_regression.md). You can find the answers [here](https://github.com/vonate5/midterm_project/tree/main/sql).
 
