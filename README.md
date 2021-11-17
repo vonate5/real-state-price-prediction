@@ -50,7 +50,7 @@ You can see the full visualization we've done in [Tableau 📊](https://github.c
 
 ## Results
 
-#### Our model can predict by the 84.4% of accuracy the price of a house based on features. 
+#### Our model can predict the price of a house based on features with the accuracy of 84.4%.
 
 #
 **Thanks for reading,**
