@@ -34,5 +34,8 @@ To find out more about the distribution of the important features we highlighted
 For further information you may find the Tableau data [here](https://github.com/vonate5/midterm_project/tree/main/tableau)
 
 ## Process & tools
-
+### We use the following tools to achieve the objective.
 ![](images/process&tools.png)
+
+**- MySQL:** We use SQL to complete the SQL [questions]. You can find the answers [here](https://github.com/vonate5/midterm_project/tree/main/sql).
+
