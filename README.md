@@ -48,9 +48,13 @@ For further information you may find the Tableau data [here](https://github.com/
 You can see the full visualization we've done in [Tableau 📊](https://github.com/vonate5/midterm_project/tree/main/tableau) or the [Presentation]
 
 ## Results
-- Our model can predict by the 84.4% of accuracy the price of a house based on features. 
 
+#### Our model can predict by the 84.4% of accuracy the price of a house based on features. 
 
+**Thanks for reading,**
+
+If you have any question please reach out to us,
+Team
 
 
 
