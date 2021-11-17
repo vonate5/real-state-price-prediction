@@ -9,7 +9,7 @@ by [Maziar Mehrbakhsh](https://github.com/Maziar-Mehr) & [Virgilio Oñate](https
 - [Data](https://github.com/vonate5/midterm_project/blob/main/README.md#data)
 - [Process & tools](https://github.com/vonate5/midterm_project/blob/main/README.md#process--tools)
 - [Visualization](https://github.com/vonate5/midterm_project/blob/main/README.md#visualization)
-- [Results]
+- [Results](https://github.com/vonate5/midterm_project/blob/main/README.md#results)
 
 
 ## Project Brief
@@ -45,8 +45,17 @@ For further information you may find the Tableau data [here](https://github.com/
 - **Machine Learning:**
 
 ## Visualization
-You can see the visualization we've done in [Tableau 📊](https://github.com/vonate5/midterm_project/tree/main/tableau)
+You can see the full visualization we've done in [Tableau 📊](https://github.com/vonate5/midterm_project/tree/main/tableau) or the [Presentation]
 
+## Results
+
+#### Our model can predict by the 84.4% of accuracy the price of a house based on features. 
+
+#
+**Thanks for reading,**
+
+If you have any question please reach out to us,<br/><br/>
+Team 🇮🇷🇪🇸
 
 
 
