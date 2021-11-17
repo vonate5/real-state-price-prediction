@@ -9,7 +9,7 @@ by [Maziar Mehrbakhsh](https://github.com/Maziar-Mehr) & [Virgilio Oñate](https
 - [Data](https://github.com/vonate5/midterm_project/blob/main/README.md#data)
 - [Process & tools](https://github.com/vonate5/midterm_project/blob/main/README.md#process--tools)
 - [Visualization](https://github.com/vonate5/midterm_project/blob/main/README.md#visualization)
-- [Results]
+- [Results](https://github.com/vonate5/midterm_project/blob/main/README.md#results)
 
 
 ## Project Brief
