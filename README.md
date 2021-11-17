@@ -41,9 +41,9 @@ We use the following tools to achieve the objective.
 - **MySQL:** we use MySQL to complete the SQL [questions](https://github.com/vonate5/midterm_project/blob/main/project_details/sql_questions_regression.md). You can find the answers [here](https://github.com/vonate5/midterm_project/tree/main/sql).
 - **Trello:** set up our Trello board to help us organized and complete the daily tasks.
 - **Tableau:** here you can find the Tableau [questions](https://github.com/vonate5/midterm_project/blob/main/project_details/tableau_regression.md).You can find the Tableau worksheets and dashboard [here](https://github.com/vonate5/midterm_project/tree/main/tableau).
-- **Python:** programming language we use to build the Machine Learning model that give us the 84% accuracy of the price prediction. You can find de here the [code].
+- **Python:** programming language we use to build the Machine Learning model that give us the 84% accuracy of the price prediction. You can find here the [code].
 - **Data cleaning:** keeping the highly correlated features with price and dropping highly correlated features with eachother when they have the same meaning.
-- **Machine Learning:**
+- **Machine Learning:** we use the Linear Regression model, being the final accuracy **84.4%**. 
 
 ## Visualization
 You can see the full visualization we've done in [Tableau 📊](https://github.com/vonate5/midterm_project/tree/main/tableau) or the [Presentation]
