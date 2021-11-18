@@ -5,14 +5,14 @@ by [Maziar Mehrbakhsh](https://github.com/Maziar-Mehr) & [Virgilio Oñate](https
 ![](images/Image_1.png)
 
 ## Table of content
-- [Project Brief](https://github.com/vonate5/midterm_regression_project#project-brief)
+- [Project](https://github.com/vonate5/midterm_regression_project#project-brief)
 - [Data](https://github.com/vonate5/midterm_regression_project#data)
 - [Process & tools](https://github.com/vonate5/midterm_regression_project#process--tools)
 - [Visualization](https://github.com/vonate5/midterm_regression_project#visualization)
 - [Results](https://github.com/vonate5/midterm_regression_project#results)
 
 
-## Project Brief
+## Project
 **Scenario:**
 You are working as an analyst for a real estate company. Your company wants to build a machine learning model to predict the selling prices of houses based on a 
 variety of features on which the value of the house is evaluated.
