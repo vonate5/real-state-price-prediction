@@ -5,7 +5,7 @@ by [Maziar Mehrbakhsh](https://github.com/Maziar-Mehr) & [Virgilio Oñate](https
 ![](images/Image_1.png)
 
 ## Table of content
-- [Project](https://github.com/vonate5/midterm_regression_project#project-brief)
+- [Project](https://github.com/vonate5/midterm_regression_project#project)
 - [Data](https://github.com/vonate5/midterm_regression_project#data)
 - [Process & tools](https://github.com/vonate5/midterm_regression_project#process--tools)
 - [Visualization](https://github.com/vonate5/midterm_regression_project#visualization)
