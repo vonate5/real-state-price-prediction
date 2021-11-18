@@ -48,7 +48,7 @@ We use the following tools to achieve the objective.
 - **Machine Learning:** we use the Linear Regression model, being the final accuracy **84.4%**. 
 
 ## Visualization
-You can see the full visualization we've done in [Tableau 📊](https://github.com/vonate5/midterm_regression_project/tree/main/tableau) or the [Presentation]
+You can see the full visualization we've done in [Tableau 📊](https://github.com/vonate5/midterm_regression_project/tree/main/tableau) or the [Presentation](https://slides.com/virgilioonate/case-s)
 
 ## Results
 
