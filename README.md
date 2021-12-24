@@ -1,5 +1,5 @@
 # Case Study: Regression 🏡
-by [Maziar Mehrbakhsh](https://github.com/Maziar-Mehr) & [Virgilio Oñate](https://github.com/vonate5), November 2021
+by [Virgilio Oñate](https://github.com/vonate5), November 2021
 ## Building a machine learning model to predict the selling prices of houses based on a variety of features
 
 ![](images/Image_1.png)
@@ -55,10 +55,9 @@ You can see the full visualization we've done in [Tableau 📊](https://github.c
 #### Our Machine Learning Model can predict the price of a house based on features with the accuracy of 84.4%.
 
 #
-**Thanks for reading,**
+**Thanks for reading!**
 
-If you have any question please reach out to us,<br/><br/>
-Team 🇮🇷🇪🇸
+
 
 
 
